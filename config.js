@@ -8,11 +8,11 @@
                                    ╰╯
 ## Project Name => Queen-AI
 ## Project Version => 1.0.0  
-## Project Author => DarkWinzo
+## Project Author => Eren 
 ## Project license => MIT
-## Project Team => DarkSide Team
+## Project Team => Unknown
 ## Module Name => config.js
-## Coded By DarkWinzo
+## Coded By Eren Yeager
 ***/ 
 
 const fs = require('fs');
